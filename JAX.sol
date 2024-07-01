@@ -7,7 +7,6 @@
     Don't be shy, my friend. Join the crew and get ready to JAX up your crypto game with CYBERJAX!
 
     Website: www.cyberjax.xyz
-    Telegram: 
 
 **/
 pragma solidity 0.8.25;
