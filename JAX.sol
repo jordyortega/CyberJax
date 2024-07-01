@@ -233,7 +233,7 @@ contract CYBERJAX is ERC20, Ownable {
     uint256 public maxBuy = 15000000 * (10**18);
     uint256 public totalTax = 1;
     mapping (address => bool) public isTaxesExempt;
-    address payable public taxWallet = payable(0x1320962204D5d556d6fD3799559243e99533953c);
+    address payable public taxWallet = payable(0x1E3A96fe8783775c06c8a8eD93DAE5d3d39Dcbcc);
 
     event PaidOutTaxes(uint256 contract_token_balance);
     
